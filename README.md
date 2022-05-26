@@ -1,7 +1,7 @@
 # go-wecom
 this is a go wecom robot report demo
 # Installing
->> go get github.com/Jacksmall/go-wecom
+\> go get github.com/Jacksmall/go-wecom
 # Example
 ```
 package main
@@ -37,7 +37,7 @@ func main() {
 ```
 
 # Output
->> go run main.go
+\> go run main.go
 ```
 send success string: {"errcode":0,"errmsg":"ok"}
 ```
